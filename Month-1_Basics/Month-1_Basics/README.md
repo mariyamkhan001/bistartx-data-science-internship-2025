@@ -1,10 +1,10 @@
-# 📘 Month 1 - Basic Projects (April 1–30, 2025)
+#  Month 1 - Basic Projects (April 1–30, 2025)
 
 This folder contains foundational data science projects completed during the first month of my internship at **BiStartX**. Each project was focused on building core skills like data cleaning, EDA, and simple modeling.
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ###  🔹 1. Titanic Dataset – Exploratory Data Analysis  
 - Cleaned missing values  
@@ -22,7 +22,7 @@ This folder contains foundational data science projects completed during the fir
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
